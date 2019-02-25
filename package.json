@@ -1,0 +1,16 @@
+{
+  "name": "host",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Koushik Chatterjee",
+  "license": "ISC",
+  "homepage": "https://ortoni.github.io/crawl",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
